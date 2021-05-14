@@ -1,9 +1,11 @@
 # Project 2- Covid Vaccine
 
 ### Tools  & API's
-- []
-- []
-- []
+- [] Java
+- [] JavaScript, HTML, CSS
+- [] React
+- [] Spring Boot
+- [] Jenkins
 
 ### Functionality
 - []
